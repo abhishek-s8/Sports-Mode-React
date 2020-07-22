@@ -1,0 +1,70 @@
+a.link {
+    color: white;
+    padding: 1em;
+}
+
+a.link:hover, a.link:active{
+    text-decoration: none;
+    color:#d91b5c;
+}
+
+a.active {
+    color: #d91b5c;
+}
+
+h1, h2, h3, h4, p {
+    font-family: "Trebuchet MS", sans-serif; 
+}
+
+h4 {
+    font-family: "Trebuchet MS", sans-serif; 
+}
+
+h5 {
+    font-family: "Trebuchet MS", sans-serif; 
+}
+
+.navbar {
+    background-color: #13a89e;
+}
+.navbrand:hover {
+    color: #d91b5c !important;
+	opacity: 0.9;
+}
+
+.navlink {
+    font-size: 1.15em;
+    color: #d91b5c;
+}
+
+.navlink2 {
+    font-size: 1.5em;
+    color: #d91b5c;
+}
+
+.btn-primary, .btn-primary:active, .btn-primary:visited {
+    background-color: #d91b5c !important;
+    border-color: #d91b5c !important;
+}
+
+.btn-primary:hover {
+    background-color:#f2afc6 !important;
+    border-color: #f2afc6 !important;
+}
+
+#results {
+    display: hidden;
+}
+
+.quizLabel {
+    font-size: 2.5em;
+}
+
+.quizOption{
+    background-color: gold;
+    border-radius: 15px;
+    display: inline-block;
+    padding: 0.5em 1em 0.5em 1em;
+    margin: 0.25em;
+    align-content: center;
+}
