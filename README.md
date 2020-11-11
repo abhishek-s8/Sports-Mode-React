@@ -1,2 +1,2 @@
 # Sports-Mode-React
-Sports training mock website
+Sports training mock website using NodeJS
